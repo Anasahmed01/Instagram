@@ -1,0 +1,4 @@
+#Fri May 31 17:16:34 PKT 2024
+base.0=C\:\\Users\\Raja Zaryyab\\Desktop\\instagram\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
